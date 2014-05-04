@@ -1,0 +1,9 @@
+name: NoPickup
+main: ch.k42.nopickup.NoPickupPlugin
+version: ${project.version}
+load: startup
+authors: [AthmosPrime, trichner]
+website: k42.ch
+description: Stops entities from picking up items
+softdepend: []
+loadbefore: []
